@@ -1,0 +1,4 @@
+1. apply border to the image with css.
+2. create a magazine using css and html. it will have a content of images
+and information about image.
+3. Create Greeting card of your choice of design
