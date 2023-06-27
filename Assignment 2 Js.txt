@@ -1,0 +1,10 @@
+1. Write a program to store product Manufacturers(Sony,Airtel,Jio,Nokia,Samsung) in an array
+and display the data of an array with for loop.
+2.diplay the table of any number in the below format
+2*1=2
+2*2=4
+2*3=6
+
+3.Write a program to display the welcome message based on gender input
+e.g. if the gender input is male. then you get a message as Good afternoon Sir or if input is female then Good afternoon madam
+can you string function .toLowerCase()
